@@ -1,0 +1,25 @@
+agencies:
+- agency_name: Niagara Falls
+  address: 7-7150 Montrose Rd (MacBain Community Centre)
+  address2: Niagara Falls, ON
+  phone_number: 905-357-5454
+  contact_email: volunteer@niagarafallsmentors.org
+  agency_url: https://niagarafalls.bigbrothersbigsisters.ca/
+- agency_name: St. Catharines, Thorold, & District
+  address: 428 Niagara St.
+  address2: St. Catharines, ON
+  phone_number: 905-646-3230
+  contact_email: events.stc@bigbrothersbigsisters.ca
+  agency_url: http://bbbsmentors.ca
+- agency_name: South Niagara
+  address: 800 Niagara St Unit JJ4
+  address2: Welland, ON
+  phone_number: 905-735-0570
+  contact_email: admin.southniagara@bigbrothersbigsisters.ca
+  agency_url: https://southniagara.bigbrothersbigsisters.ca
+- agency_name: Grimsby, Lincoln, and West Lincoln
+  address: 18 Ontario St.
+  address2: Grimsby, ON
+  phone_number: 905-945-9353
+  contact_email: glwlbbbs@aol.com
+  agency_url: https://www.bigbrothersbigsisters.ca/glwl/

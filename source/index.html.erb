@@ -1,0 +1,33 @@
+---
+title: Big Brothers Big Sisters of the Niagara Region Bowl for Kids Sake
+---
+
+<header>
+  <h1>Big Brothers Big Sisters of Niagara Bowl for Kids Sake</h1>
+  <%= image_tag 'logo.svg', alt: "Big Brothers Big Sisters of Niagara Bowl for Kids Sake", class: "logo" %>
+  <div class="intro">
+    <p>Lace up for our most important fundraising event of our year and you could start something big...</p>
+  </div>
+</header>
+
+<main>
+  <div class="theme-logos">
+    <%= image_tag 'tim_hortons.svg', alt: "Tim Hortons", class: "sponsor-logo" %>
+    <%= image_tag 'zombie.svg', alt: "Big Brothers Big Sisters of Niagara Bowl 2018 Zombie Bowl", class: "theme-logo" %>
+  </div>
+  <h2>2018 Bowl for Kids Sake Dates</h2>
+
+  <div class="events">
+    <% data.bowl.events.each do |event| %>
+      <%= partial '/_partials/event', :locals => { :e => event } %>
+    <% end %>
+  </div>
+
+  <h2>Niagara Big Brothers Big Sisters Agencies</h2>
+
+  <div class="agencies">
+    <% data.agencies.agencies.each do |agency| %>
+      <%= partial '/_partials/agency', :locals => { :a => agency } %>
+    <% end %>
+  </div>
+</main>
