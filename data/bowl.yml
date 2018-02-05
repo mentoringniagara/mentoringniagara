@@ -48,7 +48,7 @@ events:
   alley_address2: Welland, ON
   promoter_url: https://southniagara.bigbrothersbigsisters.ca/
   promoter_name: Big Brothers Big Sisters of South Niagara
-  event_url: http://bbbsinniagara.ca
+  event_url: https://www.canadahelps.org/en/charities/big-brothers-of-south-niagara-inc/p2p/2018bowlforkidssakebbbssn/
   event_url_pretty: Register
 - location: Fort Erie
   days:
@@ -61,7 +61,7 @@ events:
   alley_address2: Fort Erie, ON
   promoter_url: https://southniagara.bigbrothersbigsisters.ca/
   promoter_name: Big Brothers Big Sisters of South Niagara
-  event_url: http://bbbsinniagara.ca
+  event_url: https://www.canadahelps.org/en/charities/big-brothers-of-south-niagara-inc/p2p/2018bowlforkidssakebbbssn/
   event_url_pretty: Register
 - location: Grimsby / Lincoln / West Lincoln
   days:
