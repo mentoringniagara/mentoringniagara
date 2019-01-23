@@ -5,7 +5,7 @@ agencies:
   phone_number: 905-357-5454
   contact_email: volunteer@niagarafallsmentors.org
   agency_url: https://niagarafalls.bigbrothersbigsisters.ca/
-- agency_name: St. Catharines, Thorold, & District
+- agency_name: St. Catharines-Thorold and District
   address: 428 Niagara St.
   address2: St. Catharines, ON
   phone_number: 905-646-3230
@@ -17,9 +17,3 @@ agencies:
   phone_number: 905-735-0570
   contact_email: admin.southniagara@bigbrothersbigsisters.ca
   agency_url: https://southniagara.bigbrothersbigsisters.ca
-- agency_name: Grimsby, Lincoln, and West Lincoln
-  address: 18 Ontario St.
-  address2: Grimsby, ON
-  phone_number: 905-945-9353
-  contact_email: glwlbbbs@aol.com
-  agency_url: https://www.bigbrothersbigsisters.ca/glwl/

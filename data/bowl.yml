@@ -3,8 +3,8 @@ events:
   days:
   - weekday: Saturday
     month: Feb
-    day: 24
-    times: 6pm, 8pm
+    day: 23
+    times:
   alley_name: Cataract Bowl
   alley_address: 7906 Lundy's Lane
   alley_address2: Niagara Falls, ON
@@ -16,15 +16,15 @@ events:
   days:
   - weekday: Saturday
     month: Feb
-    day: 24
-    times: 12pm, 2pm, 4pm, 6pm, 8pm
+    day: 23
+    times: 4pm, 6pm, 8pm
   - weekday: Tuesday
     month: Feb
-    day: 27
-    times: 7:30pm, 9:30pm
+    day: 26
+    times: 7:30pm
   - weekday: Saturday
     month: Mar
-    day: 3
+    day: 2
     times: 6pm, 8pm
   alley_name: Parkway Lanes
   alley_address: 327 Ontario Street
@@ -37,11 +37,11 @@ events:
   days:
   - weekday: Saturday
     month: Mar
-    day: 3
-    times: 4:30pm, 7:30pm
+    day: 2
+    times: 6pm, 8pm
   - weekday: Wednesday
     month: Mar
-    day: 7
+    day: 6
     times: 4:30pm
   alley_name: Jeff’s Bowl O’Rama
   alley_address: 968 Niagara Street
@@ -54,25 +54,12 @@ events:
   days:
   - weekday: Saturday
     month: Mar
-    day: 10
-    times: 4:30pm, 7pm
+    day: 23
+    times:
   alley_name: Carrol’s Bowling Lanes
   alley_address: 7 Klauck Street
   alley_address2: Fort Erie, ON
   promoter_url: https://southniagara.bigbrothersbigsisters.ca/
   promoter_name: Big Brothers Big Sisters of South Niagara
   event_url: https://www.canadahelps.org/en/charities/big-brothers-of-south-niagara-inc/p2p/2018bowlforkidssakebbbssn/
-  event_url_pretty: Register
-- location: Grimsby / Lincoln / West Lincoln
-  days:
-  - weekday: Saturday
-    month: Mar
-    day: 3
-    times: 1pm-6pm
-  alley_name: Pla-Mor Lanes
-  alley_address: 106 Main St.
-  alley_address2: St. Catharines (Port Dalhousie), ON
-  promoter_url: https://www.bigbrothersbigsisters.ca/glwl
-  promoter_name: Big Brothers Big Sisters of Grimsby, Lincoln, and West Lincoln
-  event_url: https://www.bigbrothersbigsisters.ca/glwl
   event_url_pretty: Register
