@@ -4,7 +4,7 @@ events:
   - weekday: Saturday
     month: Feb
     day: 23
-    times:
+    times: 6pm, 8pm
   alley_name: Cataract Bowl
   alley_address: 7906 Lundy's Lane
   alley_address2: Niagara Falls, ON
@@ -38,11 +38,11 @@ events:
   - weekday: Saturday
     month: Mar
     day: 2
-    times: 6pm, 8pm
+    times: 4:30pm, 7:30pm
   - weekday: Wednesday
     month: Mar
     day: 6
-    times: 4:30pm
+    times: 4pm
   alley_name: Jeff’s Bowl O’Rama
   alley_address: 968 Niagara Street
   alley_address2: Welland, ON
@@ -55,7 +55,7 @@ events:
   - weekday: Saturday
     month: Mar
     day: 23
-    times:
+    times: 4:30pm, 7pm
   alley_name: Carrol’s Bowling Lanes
   alley_address: 7 Klauck Street
   alley_address2: Fort Erie, ON
