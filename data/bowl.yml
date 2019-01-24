@@ -10,7 +10,7 @@ events:
   alley_address2: Niagara Falls, ON
   promoter_url: https://niagarafalls.bigbrothersbigsisters.ca/
   promoter_name: Big Brothers Big Sisters of Niagara Falls
-  event_url: http://www.bfks.ca/
+  event_url: https://www.canadahelps.org/en/charities/big-brothers-big-sisters-of-niagara-falls/p2p/BFKS2019/
   event_url_pretty: Register
 - location: St. Catharines / Thorold
   days:
@@ -48,7 +48,7 @@ events:
   alley_address2: Welland, ON
   promoter_url: https://southniagara.bigbrothersbigsisters.ca/
   promoter_name: Big Brothers Big Sisters of South Niagara
-  event_url: https://www.canadahelps.org/en/charities/big-brothers-of-south-niagara-inc/p2p/2018bowlforkidssakebbbssn/
+  event_url: https://www.canadahelps.org/en/charities/big-brothers-of-south-niagara-inc/p2p/BFKS2019/
   event_url_pretty: Register
 - location: Fort Erie
   days:
@@ -61,5 +61,5 @@ events:
   alley_address2: Fort Erie, ON
   promoter_url: https://southniagara.bigbrothersbigsisters.ca/
   promoter_name: Big Brothers Big Sisters of South Niagara
-  event_url: https://www.canadahelps.org/en/charities/big-brothers-of-south-niagara-inc/p2p/2018bowlforkidssakebbbssn/
+  event_url: https://www.canadahelps.org/en/charities/big-brothers-of-south-niagara-inc/p2p/BFKS2019/
   event_url_pretty: Register
