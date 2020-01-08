@@ -3,63 +3,67 @@ events:
   days:
   - weekday: Saturday
     month: Feb
-    day: 23
+    day: 22
     times: 6pm, 8pm
+  - weekday: Thursday
+    month: March
+    day: 5
+    times: 6pm
   alley_name: Cataract Bowl
   alley_address: 7906 Lundy's Lane
   alley_address2: Niagara Falls, ON
   promoter_url: https://niagarafalls.bigbrothersbigsisters.ca/
   promoter_name: Big Brothers Big Sisters of Niagara Falls
-  event_url: https://www.canadahelps.org/en/charities/big-brothers-big-sisters-of-niagara-falls/p2p/BFKS2019/
+  event_url: https://niagarafalls.bigbrothersbigsisters.ca/
   event_url_pretty: Register
 - location: St. Catharines / Thorold
   days:
   - weekday: Saturday
     month: Feb
-    day: 23
+    day: 22
     times: 4pm, 6pm, 8pm
   - weekday: Tuesday
     month: Feb
-    day: 26
+    day: 25
     times: 7:30pm
   - weekday: Saturday
-    month: Mar
-    day: 2
+    month: Feb
+    day: 29
     times: 6pm, 8pm
   alley_name: Parkway Lanes
   alley_address: 327 Ontario Street
   alley_address2: St. Catharines, ON
   promoter_url: http://bbbsmentors.ca/
-  promoter_name: Big Brothers Big Sisters of St. Catharines, Thorold, & District
-  event_url: http://www.bowl4kids.ca/
+  promoter_name: Big Brothers Big Sisters of North & West Niagara.
+  event_url: https://bbbsmentors.ca/join-an-event/bowlforkidssake/
   event_url_pretty: Register
 - location: Welland
   days:
   - weekday: Saturday
     month: Mar
-    day: 2
-    times: 4:30pm, 7:30pm
+    day: 7
+    times: TBA
   - weekday: Wednesday
     month: Mar
-    day: 6
-    times: 4pm
+    day: 11
+    times: TBA
   alley_name: Jeff’s Bowl O’Rama
   alley_address: 968 Niagara Street
   alley_address2: Welland, ON
   promoter_url: https://southniagara.bigbrothersbigsisters.ca/
   promoter_name: Big Brothers Big Sisters of South Niagara
-  event_url: https://www.canadahelps.org/en/charities/big-brothers-of-south-niagara-inc/p2p/BFKS2019/
+  event_url: https://southniagara.bigbrothersbigsisters.ca
   event_url_pretty: Register
 - location: Fort Erie
   days:
   - weekday: Saturday
     month: Mar
-    day: 23
-    times: 4:30pm, 7pm
-  alley_name: Carrol’s Bowling Lanes
+    day: 14
+    times: TBA
+  alley_name: Lucky Stryx
   alley_address: 7 Klauck Street
   alley_address2: Fort Erie, ON
   promoter_url: https://southniagara.bigbrothersbigsisters.ca/
   promoter_name: Big Brothers Big Sisters of South Niagara
-  event_url: https://www.canadahelps.org/en/charities/big-brothers-of-south-niagara-inc/p2p/BFKS2019/
+  event_url: https://southniagara.bigbrothersbigsisters.ca/
   event_url_pretty: Register
