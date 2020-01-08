@@ -8,13 +8,14 @@ events:
   - weekday: Thursday
     month: March
     day: 5
-    times: 6pm
+    times: 6pm *
+  notes: "* Industry Night - Strike Rock N'Bowl"
   alley_name: Cataract Bowl
   alley_address: 7906 Lundy's Lane
   alley_address2: Niagara Falls, ON
   promoter_url: https://niagarafalls.bigbrothersbigsisters.ca/
   promoter_name: Big Brothers Big Sisters of Niagara Falls
-  event_url: https://niagarafalls.bigbrothersbigsisters.ca/
+  event_url: https://www.canadahelps.org/en/charities/big-brothers-big-sisters-of-niagara-falls/p2p/BFKS2020/
   event_url_pretty: Register
 - location: St. Catharines / Thorold
   days:
@@ -34,7 +35,7 @@ events:
   alley_address: 327 Ontario Street
   alley_address2: St. Catharines, ON
   promoter_url: http://bbbsmentors.ca/
-  promoter_name: Big Brothers Big Sisters of North & West Niagara.
+  promoter_name: Big Brothers Big Sisters of North & West Niagara
   event_url: https://bbbsmentors.ca/join-an-event/bowlforkidssake/
   event_url_pretty: Register
 - location: Welland
@@ -46,13 +47,14 @@ events:
   - weekday: Wednesday
     month: Mar
     day: 11
-    times: TBA
+    times: TBA *
+  notes: "* Industry Night"
   alley_name: Jeff’s Bowl O’Rama
   alley_address: 968 Niagara Street
   alley_address2: Welland, ON
   promoter_url: https://southniagara.bigbrothersbigsisters.ca/
   promoter_name: Big Brothers Big Sisters of South Niagara
-  event_url: https://southniagara.bigbrothersbigsisters.ca
+  event_url: https://southniagara.bigbrothersbigsisters.ca/event/bowl-kids-sake/
   event_url_pretty: Register
 - location: Fort Erie
   days:
@@ -65,5 +67,5 @@ events:
   alley_address2: Fort Erie, ON
   promoter_url: https://southniagara.bigbrothersbigsisters.ca/
   promoter_name: Big Brothers Big Sisters of South Niagara
-  event_url: https://southniagara.bigbrothersbigsisters.ca/
+  event_url: https://southniagara.bigbrothersbigsisters.ca/event/bowl-kids-sake/
   event_url_pretty: Register

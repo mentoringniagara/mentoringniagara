@@ -1,31 +1,38 @@
 <div class="event">
-  <h3><%= e.location %></h3>
-  <div class="calendars">
-    <% e.days.each do |day| %>
-      <div class="calendar">
-        <div class="calendar-weekday"><%= day.weekday %></div>
-        <div class="calendar-square">
-          <div class="calendar-month"><%= day.month %></div>
-          <div class="calendar-day"><%= day.day %></div>
+  <div class="event-inner">
+    <h3><%= e.location %></h3>
+    <div class="calendars">
+      <% e.days.each do |day| %>
+        <div class="calendar">
+          <div class="calendar-weekday"><%= day.weekday %></div>
+          <div class="calendar-square">
+            <div class="calendar-month"><%= day.month %></div>
+            <div class="calendar-day"><%= day.day %></div>
+          </div>
+          <div class="calendar-times"><%= day.times %></div>
         </div>
-        <div class="calendar-times"><%= day.times %></div>
+      <% end %>
+    </div>
+    <div class="alley">
+      <%= image_tag 'ball.svg', alt: 'Bowling Ball', class: "alley-ball" %>
+      <div class="alley-info">
+        <div class="alley-name"><%= e.alley_name %></div>
+        <div class="alley-address"><%= e.alley_address %><br/><%= e.alley_address2 %></div>
+      </div>
+    </div>
+    <div class="promoter">
+      <%= image_tag 'icon_for_dark.png', alt: e.promoter_name, class: "promoter-logo" %>
+      <div>
+        <a href="<%= e.promoter_url %>"><%= e.promoter_name %></a>
+      </div>
+    </div>
+    <% if e.event_url.present? %>
+      <div class="event-url">
+        <a href="<%= e.event_url %>"><%= e.event_url_pretty %></a>
       </div>
     <% end %>
   </div>
-  <div class="alley">
-    <%= image_tag 'ball.svg', alt: 'Bowling Ball', class: "alley-ball" %>
-    <div class="alley-info">
-      <div class="alley-name"><%= e.alley_name %></div>
-      <div class="alley-address"><%= e.alley_address %><br/><%= e.alley_address2 %></div>
-    </div>
-  </div>
-  <div class="promoter">
-    <%= image_tag 'icon_for_dark.png', alt: e.promoter_name, class: "promoter-logo" %>
-    <a href="<%= e.promoter_url %>"><%= e.promoter_name %></a>
-  </div>
-  <% if e.event_url.present? %>
-    <div class="event-url">
-      <a href="<%= e.event_url %>"><%= e.event_url_pretty %></a>
-    </div>
+  <% if e.notes.present? %>
+    <div class="event-notes"><%= e.notes %></div>
   <% end %>
 </div>

@@ -101,7 +101,7 @@ img.sponsor-logo {
   }
 }
 
-.event {
+.event-inner {
   background: #54585a;
   color: white;
   padding: 1em 1em 4em 1em;
@@ -109,6 +109,12 @@ img.sponsor-logo {
   @include for-tablet-portrait-up {
     padding: 1em 2em 4em 2em;
   }
+}
+
+.event-notes {
+  text-align: right;
+  font-size: 80%;
+  margin-top: .25em;
 }
 
 .calendars {
@@ -142,6 +148,13 @@ img.sponsor-logo {
 }
 
 .calendar-times {
+  font-size: 80%;
+  display: inline-block;
+  height: 40px;
+  margin-top: .5em;
+}
+
+.calendar-extra {
   font-size: 80%;
   display: inline-block;
   height: 40px;
