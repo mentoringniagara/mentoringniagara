@@ -6,7 +6,7 @@ events:
     day: 22
     times: 6pm, 8pm
   - weekday: Thursday
-    month: March
+    month: Mar
     day: 5
     times: 6pm *
   notes: "* Industry Night - Strike Rock N'Bowl"
@@ -43,11 +43,11 @@ events:
   - weekday: Saturday
     month: Mar
     day: 7
-    times: TBA
+    times: 4:30pm, 7pm
   - weekday: Wednesday
     month: Mar
     day: 11
-    times: TBA *
+    times: 4:30pm, 7pm *
   notes: "* Industry Night"
   alley_name: Jeff’s Bowl O’Rama
   alley_address: 968 Niagara Street
@@ -61,7 +61,7 @@ events:
   - weekday: Saturday
     month: Mar
     day: 14
-    times: TBA
+    times: 4pm
   alley_name: Lucky Stryx
   alley_address: 7 Klauck Street
   alley_address2: Fort Erie, ON
