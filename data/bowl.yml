@@ -8,7 +8,7 @@ events:
   - weekday: Thursday
     month: Mar
     day: 5
-    times: 6pm *
+    times: 6pm*
   notes: "* Industry Night - Strike Rock N'Bowl"
   alley_name: Cataract Bowl
   alley_address: 7906 Lundy's Lane
@@ -47,7 +47,7 @@ events:
   - weekday: Wednesday
     month: Mar
     day: 11
-    times: 4:30pm, 7pm *
+    times: 4:30pm*, 7pm*
   notes: "* Industry Night"
   alley_name: Jeff’s Bowl O’Rama
   alley_address: 968 Niagara Street
